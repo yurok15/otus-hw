@@ -1,4 +1,4 @@
-module github.com/yurok15/hw01_hello_otus
+module github.com/yurok15/otus-hw/hw01_hello_otus
 
 go 1.16
 
